@@ -32,7 +32,7 @@ These templates are to function as a practical problem-solution lookup with each
 **If you have a Job / Training focus**
 
 
-1. Taylor the problem types to what you exoect to encounter at your job.
+1. Taylor the problem types to what you expect to encounter at your job.
 
 2. focus on what might take you too much time to hunt for solutions in real-time. 
 
